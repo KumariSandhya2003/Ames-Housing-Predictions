@@ -14,4 +14,5 @@ The objective is to predict the final price of each home and I have used followi
     -Ridge
     -ElasticNet
 
-
+<hr>
+<h4>Link for advanced predictive modeling: <a href="https://kumarisandhya2003.github.io/KaggleHousingPrice/">Ames Housing Price Prediction Analysis</a> </strong></h3> <hr>
